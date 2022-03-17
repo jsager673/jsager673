@@ -2,7 +2,7 @@
 Game Design & 3D Modeling for gaming. 
 
 - I have worked on and finished several games that are available on Itch.io, including Canis (a simple shmup), Skullcrusher (breakout clone), 
-Protectron, and MGI Pinball. I also programmed the educational game Percy's Adventure for the Lewis & Clark Interpretive Center in Sioux City, IA.
+Protectron (similar to missile command but no shooting), and MGI Pinball. I also programmed the educational game Percy's Adventure for the Lewis & Clark Interpretive Center in Sioux City, IA.
 
 - I am currently working on an FPS project named Wode and hope to have an early playable version by the end of the year.
 
